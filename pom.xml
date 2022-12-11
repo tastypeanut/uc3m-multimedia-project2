@@ -21,7 +21,7 @@
   <dependencies>
 	
 
-< added dependencies !>
+<!-- added depndencies from ES site -->
     <dependency>
       <groupId>co.elastic.clients</groupId>
       <artifactId>elasticsearch-java</artifactId>
